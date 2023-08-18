@@ -24,6 +24,7 @@ Analyzing Phase:
 Sharing phase:
 -   I created data visuals using Tableau Public.
 -   The Visuals represents the insights I gained from the data.
+-   
 ![Family Vs Happiness Score](https://github.com/Abinaya-2023/World_happiness_data/assets/142603350/28e54013-0247-4e03-aead-848a8c664eb1)
 ![Health Vs Happiness Score](https://github.com/Abinaya-2023/World_happiness_data/assets/142603350/94c52256-3fc1-4e2e-8bc3-87a987ea041f)
 ![Happiness Score Vs GDP](https://github.com/Abinaya-2023/World_happiness_data/assets/142603350/c1b5bad4-315e-42d2-9548-9843c804f53f)
