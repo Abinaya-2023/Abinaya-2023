@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abinaya-2023
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning about analyzing data and doing projects to develop my analytical skills
+- 🌱 I’m currently learning about analyzing data and doing my first project today to develop my analytical skills
 
 <!---
 Abinaya-2023/Abinaya-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
