@@ -29,7 +29,7 @@ Sharing phase:
 ![Happiness Score Vs GDP](https://github.com/Abinaya-2023/World_happiness_data/assets/142603350/c1b5bad4-315e-42d2-9548-9843c804f53f)
 ![Happiness Score Vs Country](https://github.com/Abinaya-2023/World_happiness_data/assets/142603350/a2aaeea2-59fc-45f2-975e-477682c6abbf)
 
-
+Thank you for reading!
  
 
 <!---
